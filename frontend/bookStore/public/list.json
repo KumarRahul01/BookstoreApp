@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Learn React in 100 days",
+    "category": "Free",
+    "price": 0,
+    "description": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 2,
+    "title": "Learn Vue in 100 days",
+    "category": "Paid",
+    "price": 100,
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 3,
+    "title": "Learn Angular in 100 days",
+    "category": "Paid",
+    "price": 300,
+    "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 4,
+    "title": "Learn JavaScript in 100 days",
+    "category": "Free",
+    "price": 0,
+    "description": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 5,
+    "title": "Learn Java in 100 days",
+    "category": "Paid",
+    "price": 500,
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 6,
+    "title": "Learn Python in 100 days",
+    "category": "Paid",
+    "price": 300,
+    "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 7,
+    "title": "Learn C in 100 days",
+    "category": "Free",
+    "price": 0,
+    "description": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 8,
+    "title": "Learn C++ in 100 days",
+    "category": "Paid",
+    "price": 700,
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 9,
+    "title": "Learn Django in 100 days",
+    "category": "Paid",
+    "price": 900,
+    "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 10,
+    "title": "Learn Ruby in 100 days",
+    "category": "Free",
+    "price": 0,
+    "description": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 11,
+    "title": "Learn ExpressJs in 100 days",
+    "category": "Paid",
+    "price": 500,
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 12,
+    "title": "Learn Docker in 100 days",
+    "category": "Paid",
+    "price": 500,
+    "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 13,
+    "title": "Learn Php in 100 days",
+    "category": "Free",
+    "price": 0,
+    "description": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 14,
+    "title": "Learn CSS in 100 days",
+    "category": "Paid",
+    "price": 300,
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  },
+  {
+    "id": 15,
+    "title": "Learn Jupiter in 10 days",
+    "category": "Paid",
+    "price": 1000,
+    "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716007489~exp=1716011089~hmac=36b9c2598bce56577bc72e1ad938849f811fff324466d34e9a2c5512be14b95a"
+  }
+]
